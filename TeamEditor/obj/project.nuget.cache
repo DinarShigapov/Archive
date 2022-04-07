@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJBrAqvKJ/nR8UX1Bs9GsobVJHZGij/o5nCBs4DZ9CnUdlSImWvvEcIrcwozC6WhJT4+Ehui/s8qd3FcWDpqNg==",
+  "dgSpecHash": "kZeQLfuENXUdRL9assmAEyVThWQJ6vdq1JtlpeyXjXmHFGqUPfsTv5IxqXgtXdwof9hP+CKWKRCg1kYwvLE2nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dinar\\OneDrive\\Документы\\GitHub\\Labs226-2021\\TeamEditor\\TeamEditor.csproj",
+  "projectFilePath": "C:\\Users\\dinar\\OneDrive\\Документы\\GitHub\\Archive\\TeamEditor\\TeamEditor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dinar\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\dinar\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

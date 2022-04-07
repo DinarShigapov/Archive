@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gd4f87CDyfaJGuFg6BaHXS9ewGs+wXjc6faotIYA5MMxfRT1IUZnzjlWNoVNLF8q7GzTkFG07uq1Kg/BD/A/WQ==",
+  "dgSpecHash": "9zULX1eugZrCYejDF0yWSU6r+tkJoDqIeWylHrZmJOLbMbCycvLqO80NHHBQu81wiWlVAZjbHmodwuZqaeDcyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dinar\\OneDrive\\Документы\\GitHub\\Labs226-2021\\CharacterEditor\\CharacterEditor.csproj",
+  "projectFilePath": "C:\\Users\\dinar\\OneDrive\\Документы\\GitHub\\Archive\\CharacterEditor\\CharacterEditor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dinar\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\dinar\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
